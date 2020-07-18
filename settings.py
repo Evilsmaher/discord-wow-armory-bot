@@ -17,7 +17,7 @@ DISCORD_BOT_TOKEN = str(os.environ.get("DISCORD_BOT_TOKEN"))
 # API Connection Errors
 NOT_FOUND_ERROR = "Could not find a character with that name, realm or region combination. \
   Type `!armory help` for a list of valid commands. :hammer_pick:"
-CONNECTION_ERROR = "There was an issue establishing a connection to the Blizzard API. \
+CONNECTION_ERROR = "There was an issue establishing a connection to the Blizzard AP1123I. \
   Please try again. :electric_plug:"
 CREDENTIAL_ERROR = "There was an error generating the auth token. \
   Either the Blizzard auth API was not reachable or your Blizzard API credentials are not correct. :fire:"
